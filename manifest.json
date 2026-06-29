@@ -1,0 +1,14 @@
+{
+  "name": "Zaad Bakery POS",
+  "short_name": "Zaad POS",
+  "description": "Zaad Bakery Sales Management",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1208",
+  "theme_color": "#1a1208",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
